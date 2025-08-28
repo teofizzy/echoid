@@ -28,10 +28,6 @@ It can **recognize music from just a few seconds of audio**, even with noise, di
 4. Store hashes in a database with timestamps  
 5. Query: compute snippet hashes → look up matches → vote on time offsets → top match wins  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/echoid/main/docs/constellation.png" alt="Constellation Map" width="500"/>
-</p>
-
 ---
 
 ## 🚀 Getting Started
